@@ -1,0 +1,14 @@
+Access Modifire 
+
+default - not accessible in other pakage ,with the same pakege only we case use 
+
+public - we can access anywhere
+
+private - only within the class only 
+
+protected - only in that package 
+
+
+
+
+
